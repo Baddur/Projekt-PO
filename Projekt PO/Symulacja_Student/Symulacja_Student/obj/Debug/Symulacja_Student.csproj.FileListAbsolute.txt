@@ -1,0 +1,37 @@
+C:\Users\micba\source\repos\Symulacja_Student\Symulacja_Student\bin\Debug\Symulacja_Student.exe.config
+C:\Users\micba\source\repos\Symulacja_Student\Symulacja_Student\bin\Debug\Symulacja_Student.exe
+C:\Users\micba\source\repos\Symulacja_Student\Symulacja_Student\bin\Debug\Symulacja_Student.pdb
+C:\Users\micba\source\repos\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.csprojAssemblyReference.cache
+C:\Users\micba\source\repos\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.Form1.resources
+C:\Users\micba\source\repos\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.Properties.Resources.resources
+C:\Users\micba\source\repos\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.csproj.GenerateResource.cache
+C:\Users\micba\source\repos\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.csproj.CoreCompileInputs.cache
+C:\Users\micba\source\repos\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.exe
+C:\Users\micba\source\repos\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.pdb
+C:\Users\micba\source\repos\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.FormSimulation.resources
+C:\Users\micba\source\repos\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.FormStart.resources
+C:\Users\Szymon Komputer\Desktop\Symulacja_Student\Symulacja_Student\bin\Debug\Symulacja_Student.exe.config
+C:\Users\Szymon Komputer\Desktop\Symulacja_Student\Symulacja_Student\bin\Debug\Symulacja_Student.exe
+C:\Users\Szymon Komputer\Desktop\Symulacja_Student\Symulacja_Student\bin\Debug\Symulacja_Student.pdb
+C:\Users\Szymon Komputer\Desktop\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.csprojAssemblyReference.cache
+C:\Users\Szymon Komputer\Desktop\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.Form1.resources
+C:\Users\Szymon Komputer\Desktop\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.FormSimulation.resources
+C:\Users\Szymon Komputer\Desktop\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.FormStart.resources
+C:\Users\Szymon Komputer\Desktop\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.Properties.Resources.resources
+C:\Users\Szymon Komputer\Desktop\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.csproj.GenerateResource.cache
+C:\Users\Szymon Komputer\Desktop\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.csproj.CoreCompileInputs.cache
+C:\Users\Szymon Komputer\Desktop\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.exe
+C:\Users\Szymon Komputer\Desktop\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.pdb
+C:\Users\micba\Downloads\Projekt PO\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.csprojAssemblyReference.cache
+C:\Users\micba\Downloads\Projekt PO\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.Form1.resources
+C:\Users\micba\Downloads\Projekt PO\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.FormSimulation.resources
+C:\Users\micba\Downloads\Projekt PO\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.FormStart.resources
+C:\Users\micba\Downloads\Projekt PO\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.Properties.Resources.resources
+C:\Users\micba\Downloads\Projekt PO\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.csproj.GenerateResource.cache
+C:\Users\micba\Downloads\Projekt PO\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.csproj.CoreCompileInputs.cache
+C:\Users\micba\Downloads\Projekt PO\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.exe
+C:\Users\micba\Downloads\Projekt PO\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.pdb
+C:\Users\micba\Downloads\Projekt PO\Symulacja_Student\Symulacja_Student\bin\Debug\Symulacja_Student.exe.config
+C:\Users\micba\Downloads\Projekt PO\Symulacja_Student\Symulacja_Student\bin\Debug\Symulacja_Student.exe
+C:\Users\micba\Downloads\Projekt PO\Symulacja_Student\Symulacja_Student\bin\Debug\Symulacja_Student.pdb
+C:\Users\micba\Downloads\Projekt PO\Symulacja_Student\Symulacja_Student\obj\Debug\Symulacja_Student.FormInfo.resources
